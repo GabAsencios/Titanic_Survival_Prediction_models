@@ -30,10 +30,11 @@ Achieved ~79% accuracy
 
 Feature scaling with StandardScaler
 Hyperparameter tuning (alpha, eta0)
-Achieved ~66% accuracy
+Achieved ~75% accuracy
 
 4. Model Evaluation
 
+Classification report
 Confusion matrix analysis
 Feature importance ranking
 Performance comparison
