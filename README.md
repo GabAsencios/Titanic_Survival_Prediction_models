@@ -13,8 +13,11 @@ Run all cells sequentially
 Option 2: Google Colab
 
 Upload Logistic_Regression&Perceptron_Models.ipynb to Google Colab
+
 Upload Titanic.csv using the file upload button
+
 Verify the path is /content/Titanic.csv
+
 Run all cells
 
 
