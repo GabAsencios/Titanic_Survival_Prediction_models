@@ -3,7 +3,9 @@ Running the Code
 Option 1: Jupyter Notebook
 
 Open Logistic_Regression&Perceptron_Models.ipynb
+
 Ensure Titanic.csv is in the correct path
+
 Run all cells sequentially
 
 Option 2: Google Colab
