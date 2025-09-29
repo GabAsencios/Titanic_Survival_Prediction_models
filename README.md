@@ -2,13 +2,13 @@
 Running the Code
 Option 1: Jupyter Notebook
 
-Open notebook.ipynb
+Open Logistic_Regression&Perceptron_Models.ipynb
 Ensure Titanic.csv is in the correct path
 Run all cells sequentially
 
 Option 2: Google Colab
 
-Upload notebook to Google Colab
+Upload Logistic_Regression&Perceptron_Models.ipynb to Google Colab
 Upload Titanic.csv using the file upload button
 Verify the path is /content/Titanic.csv
 Run all cells
