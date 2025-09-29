@@ -21,7 +21,7 @@ Verify the path is /content/Titanic.csv
 Run all cells
 
 
-Project Structure
+Project Structure:
 
 1. Data Preprocessing
 
